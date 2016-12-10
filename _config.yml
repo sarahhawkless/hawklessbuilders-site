@@ -9,6 +9,6 @@ collections:
     title: Uploads
     output: true
 markdown: kramdown
-baseurl: "/hawklessbuilders-site"
+baseurl: ""
 exclude:
 - README.md
