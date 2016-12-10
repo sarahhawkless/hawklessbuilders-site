@@ -1,9 +1,6 @@
 ---
 title: Hawklessbuilders Site
 timezone: UTC
-markdown: kramdown
-baseurl: /hawklessbuilders-site
-exclude: ['README.md']
 collections:
   posts:
     title: Posts
@@ -11,3 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+markdown: kramdown
+baseurl: "/hawklessbuilders-site"
+exclude:
+- README.md
