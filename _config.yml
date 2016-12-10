@@ -1,6 +1,9 @@
 ---
 title: Hawklessbuilders Site
 timezone: UTC
+markdown: kramdown
+baseurl: /hawklessbuilders-site
+exclude: ['README.md']
 collections:
   posts:
     title: Posts
