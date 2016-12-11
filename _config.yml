@@ -8,6 +8,9 @@ collections:
   staff:
     title: Staff
     output: true
+  testimonials:
+    title: Testimonials
+    output: true
   uploads:
     title: Uploads
     output: true
