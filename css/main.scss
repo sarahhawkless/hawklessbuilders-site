@@ -12,7 +12,6 @@ font-family: sans-serif;
 }
 a {
   color: $HB-dark;
-    border-bottom: 0.15em solid $HB-dark; /* Or whatever color you want */
     text-decoration: none;
 }
 h1 {
@@ -21,4 +20,5 @@ h1 {
 footer {
   font-size: 0.7em;
 }
-@import "nav"
+
+@import "nav", "footer";
