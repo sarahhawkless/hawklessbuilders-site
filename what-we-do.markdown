@@ -6,10 +6,10 @@ layout: default
 
 We are ready to help you with a full range of services:
 
-* Renovations
+- Renovations
 We help create an efficient plan, ensuring minimal disturbance through this time.
  
-* Landscaping
+- Landscaping
 Gazebo's, retainer walls, wooden decking
 * Concreting
   * Driveways
