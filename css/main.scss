@@ -1,0 +1,22 @@
+---
+---
+/* ===COLOURS=== */
+$HB-dark: rgb(82,98,87);
+
+html {
+font-size: 1em;
+line-height: 1.5em;
+color: $HB-dark;
+font-family: sans-serif;
+}
+a {
+  color: $HB-dark;
+    border-bottom: 0.15em solid $HB-dark; /* Or whatever color you want */
+    text-decoration: none;
+}
+h1 {
+  font-size: 1.5em;
+}
+footer {
+  font-size: 0.7em;
+}
