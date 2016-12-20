@@ -1,0 +1,12 @@
+.body-subtitle {
+  background-color: $HB-dark;
+  height: 5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  h2 {
+      color: $HB-white;
+      font-size: 1em;
+  }
+}

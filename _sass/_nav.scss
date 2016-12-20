@@ -2,7 +2,14 @@
       border-bottom: 0.15em solid $HB-dark;
 }
 
+nav {
 li {
 	display: inline-block;
 	margin-right: 2em;
+  text-transform: capitalize;
+}
+a {
+  color: $HB-dark;
+    text-decoration: none;
+}
 }

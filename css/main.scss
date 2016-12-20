@@ -3,19 +3,17 @@
 
 /* ===COLOURS=== */
 $HB-dark: rgb(82,98,87);
+$HB-white: lighten( $HB-dark, 80%);
 
 html {
 font-size: 1em;
 line-height: 1.5em;
 color: $HB-dark;
 font-family: sans-serif;
-}
-a {
-  color: $HB-dark;
-    text-decoration: none;
+height: 100%;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 3em;
 }
 h3 {
   margin-top: 2em;
@@ -24,4 +22,11 @@ footer {
   font-size: 0.7em;
 }
 
-@import "nav", "footer";
+body {
+  background-color: $HB-white;
+  padding: 0;
+  margin: 0;
+}
+
+
+@import "nav", "footer", "subtitle";
