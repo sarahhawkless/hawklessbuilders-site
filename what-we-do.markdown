@@ -1,7 +1,7 @@
 ---
 title: What We Do
-subtitle: No job too big or too small
 date: 2016-12-11 09:17:00 Z
+subtitle: No job too big or too small
 layout: page
 ---
 
